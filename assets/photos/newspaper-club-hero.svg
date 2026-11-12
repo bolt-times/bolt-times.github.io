@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title description">
+  <title id="title">Thunderbolt Times student newspaper</title>
+  <desc id="description">A playful illustrated newspaper with student headlines, a pencil, and a bright lightning bolt.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1">
+      <stop stop-color="#164b9c"/>
+      <stop offset="1" stop-color="#071d49"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="10" flood-color="#020d24" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="560" fill="url(#sky)"/>
+  <circle cx="1050" cy="90" r="155" fill="none" stroke="#7ea8e8" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="1050" cy="90" r="112" fill="none" stroke="#7ea8e8" stroke-opacity=".2" stroke-width="2" stroke-dasharray="5 13"/>
+  <path d="M0 462 1200 340v220H0z" fill="#061638" opacity=".58"/>
+  <g fill="#ffcb21">
+    <path d="m88 88 8 20 21 1-16 13 6 20-19-12-18 12 6-20-16-13 21-1z"/>
+    <circle cx="390" cy="104" r="5"/>
+    <circle cx="445" cy="390" r="7"/>
+    <circle cx="1104" cy="385" r="6"/>
+  </g>
+  <text x="78" y="158" fill="#ffcb21" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">THE STUDENT EDITION</text>
+  <text x="78" y="226" fill="#fffaf0" font-family="Georgia,serif" font-size="54" font-weight="700">WE HAVE A</text>
+  <text x="78" y="294" fill="#fffaf0" font-family="Georgia,serif" font-size="54" font-weight="700">SCHOOL PAPER.</text>
+  <text x="78" y="362" fill="#ffcb21" font-family="Georgia,serif" font-size="54" font-weight="700">NOW WHAT?</text>
+  <path d="M80 395h385" stroke="#ffcb21" stroke-width="5"/>
+  <text x="80" y="436" fill="#e2ecff" font-family="Arial,sans-serif" font-size="18" letter-spacing="2">STORIES · IDEAS · STUDENT VOICES</text>
+  <g filter="url(#shadow)" transform="rotate(5 856 295)">
+    <rect x="675" y="93" width="370" height="390" rx="8" fill="#ffcb21"/>
+    <rect x="656" y="77" width="370" height="390" rx="8" fill="#fffaf0"/>
+    <path d="M682 117h318" stroke="#0f397f" stroke-width="7"/>
+    <text x="682" y="158" fill="#0f397f" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">THUNDERBOLT TIMES</text>
+    <path d="M682 179h318" stroke="#c7d7ef" stroke-width="2"/>
+    <text x="682" y="220" fill="#071d49" font-family="Georgia,serif" font-size="28" font-weight="700">WHAT'S THE</text>
+    <text x="682" y="255" fill="#071d49" font-family="Georgia,serif" font-size="28" font-weight="700">STORY TODAY?</text>
+    <rect x="682" y="278" width="135" height="88" rx="5" fill="#a9d8f6"/>
+    <path d="m692 346 34-39 22 22 17-17 42 39z" fill="#1655ae"/>
+    <circle cx="783" cy="299" r="8" fill="#ffcb21"/>
+    <path d="M840 282h160M840 300h150M840 318h135M682 386h318M682 403h290M682 420h305" stroke="#a9b8cb" stroke-width="5" stroke-linecap="round"/>
+    <path d="m931 331 35-41-12 30h30l-48 59 14-38h-28z" fill="#ffcb21" stroke="#0f397f" stroke-linejoin="round" stroke-width="4"/>
+  </g>
+  <g transform="rotate(-24 1097 410)">
+    <rect x="1080" y="322" width="23" height="190" rx="8" fill="#ffcb21"/>
+    <path d="M1080 500h23l-11.5 31z" fill="#f3c6a5"/>
+    <path d="M1087 517h9l-4.5 14z" fill="#071d49"/>
+    <rect x="1080" y="322" width="23" height="27" rx="7" fill="#f28d75"/>
+  </g>
+</svg>

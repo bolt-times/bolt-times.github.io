@@ -29,7 +29,7 @@ A free, static, mobile-friendly newspaper website designed for GitHub Pages. No 
 
 ## 2. Add a new story
 
-Edit **`js/content.js`** and add one object inside the `articles` array. For example:
+Save an article draft in the folder for its homepage section (for example, `reviews/our-favorite-books.md`). Draft files are for organizing your uploads; GitHub Pages does not publish them automatically. To show a story on the site, add it as an object inside the `articles` array in **`js/content.js`**. For example:
 
 ```js
 {
@@ -61,6 +61,8 @@ Edit **`js/content.js`** and add one object inside the `articles` array. For exa
 - The homepage **Featured Story** looks for `feature: true` on an article. Keep that setting on **only one** article, or the first marked one will be used.
 - Dates must be `YYYY-MM-DD`.
 - Existing stories can stay in the content file, so older issues remain accessible.
+
+The section folders match the homepage categories: `articles/`, `reviews/`, `interviews/`, `comic-strip/`, `games/`, and `looking-back/`. Put article photos in `assets/photos/`.
 
 ## 3. Publish a new bi-weekly issue
 
@@ -115,6 +117,12 @@ thunderbolt-times/
 ├── archive.html
 ├── about.html
 ├── submit.html
+├── articles/          ← article drafts for Articles
+├── reviews/           ← article drafts for Reviews
+├── interviews/        ← article drafts for Interviews
+├── comic-strip/       ← article drafts for Comic Strip
+├── games/             ← article drafts for Games
+├── looking-back/      ← article drafts for Looking Back
 ├── css/
 │   └── styles.css
 ├── js/

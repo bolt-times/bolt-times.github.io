@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-labelledby="title description">
+  <title id="title">A notebook full of story ideas</title>
+  <desc id="description">A hand-drawn notebook, pencil, puzzle, and colorful notes represent the many things students can write about.</desc>
+  <rect width="1000" height="420" rx="22" fill="#eaf3ff"/>
+  <circle cx="830" cy="92" r="48" fill="#ffcb21" opacity=".8"/>
+  <path d="M0 345c176-77 278-28 408-54s276-111 592-28v157H0z" fill="#d2e8de"/>
+  <g transform="rotate(-5 500 214)">
+    <rect x="259" y="70" width="460" height="290" rx="16" fill="#0b2d68"/>
+    <rect x="283" y="54" width="460" height="290" rx="16" fill="#fffaf0" stroke="#123a80" stroke-width="5"/>
+    <path d="M335 54v290" stroke="#f3b8a7" stroke-width="4"/>
+    <g fill="#c6d6e8">
+      <circle cx="305" cy="104" r="8"/><circle cx="305" cy="153" r="8"/><circle cx="305" cy="202" r="8"/><circle cx="305" cy="251" r="8"/><circle cx="305" cy="300" r="8"/>
+    </g>
+    <text x="365" y="112" fill="#1655ae" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">IDEAS FOR THE NEXT ISSUE</text>
+    <path d="M365 130h325" stroke="#ffcb21" stroke-width="7"/>
+    <text x="367" y="176" fill="#071d49" font-family="Georgia,serif" font-size="25" font-weight="700">What makes our school</text>
+    <text x="367" y="207" fill="#071d49" font-family="Georgia,serif" font-size="25" font-weight="700">feel like our school?</text>
+    <path d="M367 233h322M367 257h260M367 281h292" stroke="#c6d6e8" stroke-width="4" stroke-linecap="round"/>
+    <path d="m636 305 31-37 23 19-31 38-20 8z" fill="#ffcb21" stroke="#0f397f" stroke-width="3"/>
+    <path d="m659 277 8-10 23 19-8 10z" fill="#f28d75"/>
+  </g>
+  <g transform="translate(85 98)">
+    <rect x="0" y="0" width="142" height="90" rx="12" fill="#ffcb21" transform="rotate(-9 71 45)"/>
+    <text x="18" y="43" fill="#071d49" font-family="Arial,sans-serif" font-size="16" font-weight="700" transform="rotate(-9 71 45)">CAMPUS LIFE</text>
+    <text x="33" y="67" fill="#071d49" font-family="Arial,sans-serif" font-size="13" transform="rotate(-9 71 45)">what's new?</text>
+  </g>
+  <g transform="translate(783 214)">
+    <path d="m52 0 14 29 32 5-23 23 5 33-28-15-29 15 6-33L5 34l33-5z" fill="#f28d75"/>
+    <text x="4" y="123" fill="#123a80" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">ASK · MAKE · SHARE</text>
+  </g>
+</svg>

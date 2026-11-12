@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" role="img" aria-labelledby="title description">
+  <title id="title">A place for student voices</title>
+  <desc id="description">Three friendly illustrated student portraits share ideas in speech bubbles on a newspaper-blue background.</desc>
+  <rect width="1000" height="420" rx="22" fill="#071d49"/>
+  <circle cx="500" cy="208" r="173" fill="none" stroke="#7ea8e8" stroke-opacity=".23" stroke-width="2"/>
+  <circle cx="500" cy="208" r="135" fill="none" stroke="#7ea8e8" stroke-opacity=".2" stroke-width="2" stroke-dasharray="6 12"/>
+  <g font-family="Arial,sans-serif" font-weight="700">
+    <g transform="translate(112 75)">
+      <path d="M20 0h226a20 20 0 0 1 20 20v58a20 20 0 0 1-20 20H90l-32 28 7-28H20A20 20 0 0 1 0 78V20A20 20 0 0 1 20 0" fill="#fffaf0"/>
+      <text x="30" y="39" fill="#123a80" font-size="18">“What if we</text>
+      <text x="30" y="66" fill="#123a80" font-size="18">interviewed…?”</text>
+    </g>
+    <g transform="translate(666 73)">
+      <path d="M20 0h205a20 20 0 0 1 20 20v58a20 20 0 0 1-20 20H95l-32 28 7-28H20A20 20 0 0 1 0 78V20A20 20 0 0 1 20 0" fill="#ffcb21"/>
+      <text x="30" y="39" fill="#071d49" font-size="18">“I made a</text>
+      <text x="30" y="66" fill="#071d49" font-size="18">comic!”</text>
+    </g>
+  </g>
+  <g transform="translate(280 165)">
+    <path d="M0 209c7-62 40-96 94-96s88 34 95 96" fill="#f28d75"/>
+    <circle cx="94" cy="70" r="61" fill="#c6865a"/>
+    <path d="M35 69c-7-39 18-68 57-68 38 0 65 24 61 67-17-1-32-14-42-31-13 16-39 27-76 32" fill="#382a26"/>
+    <circle cx="73" cy="75" r="4" fill="#071d49"/><circle cx="116" cy="75" r="4" fill="#071d49"/>
+    <path d="M79 97c9 8 21 8 30 0" fill="none" stroke="#713f37" stroke-linecap="round" stroke-width="4"/>
+    <path d="M58 148h72" stroke="#ffcb21" stroke-linecap="round" stroke-width="7"/>
+  </g>
+  <g transform="translate(500 165)">
+    <path d="M0 209c7-62 40-96 94-96s88 34 95 96" fill="#72b4d9"/>
+    <circle cx="94" cy="70" r="61" fill="#e0ad85"/>
+    <path d="M34 65c0-43 27-67 62-67 37 0 61 24 59 67-14-8-23-21-26-36-17 17-51 26-95 25" fill="#372f4c"/>
+    <circle cx="73" cy="76" r="4" fill="#071d49"/><circle cx="116" cy="76" r="4" fill="#071d49"/>
+    <path d="M78 98c9 8 21 8 30 0" fill="none" stroke="#854f45" stroke-linecap="round" stroke-width="4"/>
+    <path d="M58 148h72" stroke="#fffaf0" stroke-linecap="round" stroke-width="7"/>
+  </g>
+  <g transform="translate(720 173)">
+    <path d="M0 201c7-62 40-96 94-96s88 34 95 96" fill="#a8d7bb"/>
+    <circle cx="94" cy="70" r="61" fill="#a96c4b"/>
+    <path d="M35 62c0-39 25-64 61-64s62 24 60 65l-17-15-8 23-19-24-14 23-17-20-17 21z" fill="#171c2d"/>
+    <circle cx="73" cy="77" r="4" fill="#071d49"/><circle cx="116" cy="77" r="4" fill="#071d49"/>
+    <path d="M78 99c9 8 21 8 30 0" fill="none" stroke="#713f37" stroke-linecap="round" stroke-width="4"/>
+    <path d="M58 145h72" stroke="#ffcb21" stroke-linecap="round" stroke-width="7"/>
+  </g>
+</svg>
